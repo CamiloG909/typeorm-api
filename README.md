@@ -1,6 +1,6 @@
 # Rest API with TypeORM and PostgreSQL
 
-Deploy✨ https://typeorm-api.camilog909.repl.co/user
+Deploy✨ https://typeorm-api-camilog90.up.railway.app/user
 
 ## Routes
 
